@@ -2,6 +2,7 @@
 
 (Core Java | OOPs Based Project | Console-Based Application)
 
+
 📌 Project Overview
 
    . The Java Employee Payroll System is a console-based application developed using Core Java and Object-Oriented Programming (OOPs) principles.
@@ -9,6 +10,7 @@
    . The project is designed to manage employee details and calculate salaries based on defined business logic.
    
    . This project demonstrates strong understanding of Java fundamentals, making it ideal for fresher / entry-level Java developer interviews.
+
 
 🎯 Objectives
 
@@ -19,6 +21,7 @@
    . Calculate employee salary dynamically
    
    . Build clean, modular, and maintainable Java code
+
 
 🧠 OOPs Concepts Used
 
@@ -35,6 +38,7 @@
    . Method Overriding
    
    . Constructor Usage
+   
 
 🛠️ Technologies Used
 
@@ -46,6 +50,7 @@
    
    . Application Type: Console-Based Application
 
+
 📂 Project Structure
 
     Java-Employee-Payroll-System
@@ -56,6 +61,7 @@
     ├── PayrollService.java
     └── Main.java
 
+
 ⚙️ Functionalities
 
     ✔ Add employee details
@@ -63,6 +69,7 @@
     ✔ Salary calculation using polymorphism
     ✔ Display employee payroll details
     ✔ Object-oriented design
+
 
 🧪 Sample Workflow
 
@@ -74,10 +81,12 @@
    
    . Display payroll information
 
+
 🧾 Sample Output
 
     Employee [Name=Rahul, Id=101, Salary=45000.00]
     Employee [Name=Amit, Id=102, Salary=12000.00]
+
 
 💡 Key Learning Outcomes
 
@@ -89,6 +98,7 @@
    
    . Preparing for Java technical interviews
 
+
 🚀 Future Enhancements
 
    . Add file handling for data storage
@@ -98,6 +108,7 @@
    . Convert to Spring Boot application
    
    . Add user input & validation
+   
 
 👨‍💻 Author
 
