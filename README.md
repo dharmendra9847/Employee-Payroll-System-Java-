@@ -111,11 +111,10 @@
    
 
 👨‍💻 Author
-
     Dharmendra Kumar
     Aspiring Java Full-Stack Developer 👨‍💻
     📧 Email: dharmendra9847@gmail.com
-    💼 LinkedIn: [add your LinkedIn link](https://www.linkedin.com/in/dharmendra-kumar-546150171/)]
+    💼 LinkedIn: https://www.linkedin.com/in/dharmendra-kumar-546150171/
 
 
 ⭐ If you find this project helpful, feel free to star the repository!
